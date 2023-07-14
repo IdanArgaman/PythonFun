@@ -37,3 +37,5 @@ elif(game_result == 1):
 else:
     print("User Won!")
 
+print("Pancake!")
+
